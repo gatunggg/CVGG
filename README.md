@@ -8,8 +8,8 @@
   <hr>
   <body>
   <H1>Muhammad Ghali Anshari</H1>
-  <p>Junior FrontEnd</p>
-  <p>Binong Permai Blob B 33 No 31</p>
+  <p>Junior Frontend</p>
+  <p>Binong Permai Blok B 33 No 31</p>
   <p>TNG</p>
   <p>085156743331</p>
   <p>asepgas201@gmail.com</p>
@@ -24,4 +24,4 @@
   <p>Accout Media Social</p>
   <p>Ghali Anshari ; active on Instagram</p>   
   </body>
-  </html>
+</html>
